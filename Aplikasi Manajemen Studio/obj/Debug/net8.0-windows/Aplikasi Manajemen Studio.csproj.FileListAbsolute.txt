@@ -1,0 +1,161 @@
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.csproj.AssemblyReference.cache
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormCariGuru.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormCariSiswa.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDashboard.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDataBarang.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDataGuru.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDataKelas.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDataPetugas.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDataSiswa.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormLaporanAktivitas.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormLogin.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormPembelian.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormPeminjaman.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormPengembalian.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormPermintaan.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.InfoCard.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.Menu_Utama.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.Properties.Resources.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.BetterRoundedPanel.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.csproj.GenerateResource.cache
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.AssemblyInfoInputs.cache
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.AssemblyInfo.cs
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.csproj.CoreCompileInputs.cache
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.sourcelink.json
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Aplikasi Manajemen Studio.exe
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Aplikasi Manajemen Studio.deps.json
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Aplikasi Manajemen Studio.runtimeconfig.json
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Aplikasi Manajemen Studio.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Aplikasi Manajemen Studio.pdb
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi.7BF3C5CF.Up2Date
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\refint\Aplikasi Manajemen Studio.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.pdb
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi Manajemen Studio.genruntimeconfig.cache
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\ref\Aplikasi Manajemen Studio.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDaftar.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDaftarPermintaan.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormDaftarPeminjaman.resources
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\bin\Debug\net8.0-windows\itextsharp.dll
+D:\XI RPL\Aplikasi Manajemen Studio\Aplikasi Manajemen Studio\obj\Debug\net8.0-windows\Aplikasi_Manajemen_Studio.FormLaporanKerusakan.resources

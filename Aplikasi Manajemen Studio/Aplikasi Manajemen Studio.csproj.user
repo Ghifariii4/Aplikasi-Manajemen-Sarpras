@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormCariGuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCariSiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDaftar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDaftarPeminjaman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDaftarPermintaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataGuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataPetugas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataSiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLaporanAktivitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLaporanKerusakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPeminjaman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPengembalian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPermintaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Menu_Utama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
